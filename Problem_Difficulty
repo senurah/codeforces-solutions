@@ -1,1 +1,29 @@
+# Difficulty Levels
+
+This repository organizes CodeForces problems by their difficulty levels. Each difficulty level is represented by a folder named according to the problem rating on CodeForces.
+
+## Structure
+
+- **Level800**: Problems with a difficulty rating of 800 on CodeForces.
+- **Level900**: Problems with a difficulty rating of 900 on CodeForces.
+- **Level1000**: Problems with a difficulty rating of 1000 on CodeForces.
+- **Level1100**: Problems with a difficulty rating of 1100 on CodeForces.
+- **Level1200**: Problems with a difficulty rating of 1200 on CodeForces.
+- **Level1300**: Problems with a difficulty rating of 1300 on CodeForces.
+- **Level1400**: Problems with a difficulty rating of 1400 on CodeForces.
+- **Level1500**: Problems with a difficulty rating of 1500 on CodeForces.
+- **Level1600**: Problems with a difficulty rating of 1600 on CodeForces.
+- **Level1700**: Problems with a difficulty rating of 1700 on CodeForces.
+- **Level1800**: Problems with a difficulty rating of 1800 on CodeForces.
+- **Level1900**: Problems with a difficulty rating of 1900 on CodeForces.
+- **Level2000**: Problems with a difficulty rating of 2000 on CodeForces.
+- **Level2100**: Problems with a difficulty rating of 2100 on CodeForces.
+- **Level2200**: Problems with a difficulty rating of 2200 on CodeForces.
+- **Level2300**: Problems with a difficulty rating of 2300 on CodeForces.
+- **Level2400**: Problems with a difficulty rating of 2400 on CodeForces.
+- **Level2500**: Problems with a difficulty rating of 2500 on CodeForces.
+
+Each folder contains solutions to problems of the corresponding difficulty level, along with the problem statement and a brief explanation of the solution approach.
+
+Feel free to navigate through the folders and explore the solutions!
 
