@@ -1,4 +1,4 @@
-//code by snua
+//code by senurah
 package Difficulty.Level800;
 
 import java.util.Scanner;
