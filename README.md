@@ -6,16 +6,6 @@ This repository contains solutions to various coding problems from CodeForces. E
 
 The repository is organized by problem difficulty and problem name. Each problem has its own directory containing the solution file(s) and a README file with the problem statement and a brief explanation of the approach used.
 
-codeforces-solutions/
-│
-├── Problem_Difficulty/
-│ ├── Problem_Name/
-│ │ ├── solution.ext
-│ │ └── README.md
-│ └── ...
-│
-└── README.md
-
 ## Contributing
 
 If you'd like to contribute to this repository, please fork the repository, make your changes, and submit a pull request. Ensure that each new solution includes a README file with the problem statement and explanation of the solution.
