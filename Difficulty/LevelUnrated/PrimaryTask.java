@@ -1,5 +1,5 @@
 package Difficulty.LevelUnrated;
-
+//code by senurah
 import java.util.Scanner;
 
 public class PrimaryTask {
@@ -32,3 +32,4 @@ public class PrimaryTask {
         }
     }
 }
+
