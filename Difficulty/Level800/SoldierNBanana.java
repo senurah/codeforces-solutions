@@ -1,5 +1,5 @@
 package Difficulty.Level800;
-//senurah
+//code by senurah
 import java.util.Scanner;
 public class SoldierNBanana {
     public static void main(String[] args) {
