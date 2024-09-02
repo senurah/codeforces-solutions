@@ -1,4 +1,4 @@
-package Difficulty.Div2.Round4_Beta;
+package Difficulty.Beta.Round4;
 //code by senurah
 import java.util.Scanner;
 

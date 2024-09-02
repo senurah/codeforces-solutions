@@ -1,5 +1,5 @@
 //code by senurah
-package Difficulty.Level800;
+package Difficulty.Beta.Round47;
 
 import java.util.Scanner;
 
