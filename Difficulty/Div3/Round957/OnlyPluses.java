@@ -1,4 +1,4 @@
-package Difficulty.Level800;
+package Difficulty.Div3.Round957;
 
 import java.util.Scanner;
 
