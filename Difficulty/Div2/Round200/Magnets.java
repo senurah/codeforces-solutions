@@ -1,4 +1,4 @@
-package Difficulty.Level800;
+package Difficulty.Div2.Round200;
 //code by senurah
 public class Magnets {
     public static void main(String[] args) {
