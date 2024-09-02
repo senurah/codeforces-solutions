@@ -1,4 +1,4 @@
-package Difficulty.Level800;
+package Difficulty.Beta.Round40;
 //Code by senurah
 
 import java.util.Scanner;
