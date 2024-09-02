@@ -1,4 +1,4 @@
-package Difficulty.Level800;
+package Difficulty.Beta.Round55;
 //code by senurah
 import java.util.Scanner;
 public class Word {
