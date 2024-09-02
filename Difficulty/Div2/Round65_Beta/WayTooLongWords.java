@@ -1,5 +1,5 @@
 //code ys senurah
-package Difficulty.Level800;
+package Difficulty.Div2.Round65_Beta;
 
 import java.util.Scanner;
 
