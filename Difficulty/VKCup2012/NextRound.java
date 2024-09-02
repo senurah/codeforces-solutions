@@ -1,4 +1,4 @@
-package Difficulty.Level800;
+package Difficulty.VKCup2012;
 
 import java.util.*;
 
