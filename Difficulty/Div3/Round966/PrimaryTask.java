@@ -1,4 +1,4 @@
-package Difficulty.LevelUnrated;
+package Difficulty.Div3.Round966;
 //code by senurah
 import java.util.Scanner;
 
