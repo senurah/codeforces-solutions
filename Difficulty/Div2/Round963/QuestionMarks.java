@@ -1,5 +1,5 @@
 //code by senurah
-package Difficulty.LevelUnrated;
+package Difficulty.Div2.Round963;
 
 import java.util.Scanner;
 
