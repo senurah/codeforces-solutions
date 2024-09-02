@@ -1,4 +1,4 @@
-package Difficulty.Level800;
+package Difficulty.Beta.Round84;
 //code by senurah
 public class NearlyLuckyNumber {
     public static void main(String[] args) {
