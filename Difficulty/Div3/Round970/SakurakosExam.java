@@ -1,4 +1,4 @@
-package Difficulty.Round970;
+package Difficulty.Div3.Round970;
 //code by senurah
 public class SakurakosExam {
     public static void main(String[] args) {
