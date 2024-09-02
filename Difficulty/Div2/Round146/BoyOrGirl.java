@@ -1,4 +1,4 @@
-package Difficulty.Level800;
+package Difficulty.Div2.Round146;
 //code by senurah
 import java.util.HashSet;
 import java.util.Scanner;
