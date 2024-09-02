@@ -1,4 +1,4 @@
-package Difficulty.LevelUnrated;
+package Difficulty.Div4.Round964;
 //code by senurah
 import java.util.Scanner;
 public class CardGame {
