@@ -1,4 +1,4 @@
-package Difficulty.Level800;
+package Difficulty.Beta.Round85;
 //code by senurah
 import java.util.Scanner;
 public class PetyaNStrings {
