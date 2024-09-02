@@ -1,4 +1,4 @@
-package Difficulty.Level800;
+package Difficulty.Beta.Round97;
 //code by senurah
 public class Presents {
     public static void main(String[] args) {
