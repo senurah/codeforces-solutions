@@ -1,4 +1,4 @@
-package Difficulty.Level800;
+package Difficulty.Div2.Round366;
 //code by senurah
 import java.util.Scanner;
 public class Hulk {
