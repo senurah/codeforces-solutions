@@ -1,4 +1,4 @@
-package Difficulty.Level900;
+package Difficulty.Div2.Round238;
 //code by senurah
 import java.util.Arrays;
 import java.util.Scanner;

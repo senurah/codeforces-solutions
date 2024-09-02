@@ -1,4 +1,4 @@
-package Difficulty.Level800;
+package Difficulty.Summer2024;
 import java.util.Scanner;
 public class UploadMoreRam {
     public static void main(String[] args){

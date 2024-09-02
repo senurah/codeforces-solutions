@@ -1,4 +1,4 @@
-package Difficulty.LevelUnrated;
+package Difficulty.Beta.Round19;
 //code by senurah
 import java.util.Scanner;
 public class AlternatingSumOfNumbers {
