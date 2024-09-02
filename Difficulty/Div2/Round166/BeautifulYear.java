@@ -1,4 +1,4 @@
-package Difficulty.Level800;
+package Difficulty.Div2.Round166;
 //code by senurah
 public class BeautifulYear {
     public static void main(String[] args) {
