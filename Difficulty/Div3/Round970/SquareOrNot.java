@@ -1,4 +1,4 @@
-package Difficulty.Round970;
+package Difficulty.Div3.Round970;
 // code by senurah
 public class SquareOrNot {
     public static boolean isSquare(int num) {
