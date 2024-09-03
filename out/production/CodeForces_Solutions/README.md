@@ -62,9 +62,10 @@ This repository contains solutions to Codeforces problems, organized by division
 
 ### Div4
 
-| Round Number | Link to Solution |
-|--------------|------------------|
+| Round Number | Link to Solution                       |
+|--------------|----------------------------------------|
 | Round 827    | [Round 827](./Divisions/Div4/Round827) |
+| Round 937    | [Round 937](./Divisions/Div4/Round937) |
 | Round 964    | [Round 964](./Divisions/Div4/Round964) |
 
 ## Other Levels
