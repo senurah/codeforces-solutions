@@ -22,6 +22,7 @@ public class ClockConversion {
                 }
             }
         }
+        scanner.close();
     }
 
     public static String [] normalization(int h,int m){
