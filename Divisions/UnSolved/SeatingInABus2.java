@@ -18,14 +18,22 @@ public class SeatingInABus2 {
                     int input = scanner.nextInt();
                     int temp = input+1;
                     int temp2 = input-1;
-                    if ((!set.contains(temp) || !set.contains(temp2)) && h > 0) {
-                        set.add(input);
-                    }else if(h==0){
+//                    if ((!set.contains(temp) && !set.contains(temp2)) && h > 0) {
+//                        set.add(input);
+//                    }else if(h==0){
+//                        set.add(input);
+//                    } else {
+//                        cond = false;
+//                        break;
+//                    }
+                    if ((set.contains(temp) || set.contains(temp2)) || h == 0) {
                         set.add(input);
                     } else {
                         cond = false;
                         break;
                     }
+
+
                 }
                 //System.out.println(set);
                 if (cond) {
