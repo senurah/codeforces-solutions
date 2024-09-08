@@ -65,6 +65,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round Number | Link to Solution                       |
 |--------------|----------------------------------------|
 | Round 827    | [Round 827](./Divisions/Div4/Round827) |
+| Round 918    | [Round 918](./Divisions/Div4/Round918) |
 | Round 937    | [Round 937](./Divisions/Div4/Round937) |
 | Round 952    | [Round 952](./Divisions/Div4/Round952) |
 | Round 964    | [Round 964](./Divisions/Div4/Round964) |
