@@ -22,8 +22,8 @@ This repository contains solutions to Codeforces problems, organized by division
 
 ### Div2
 
-| Round Number | Link to Solution |
-|--------------|------------------|
+| Round Number | Link to Solution                       |
+|--------------|----------------------------------------|
 | Round 103    | [Round 103](./Divisions/Div2/Round103) |
 | Round 111    | [Round 111](./Divisions/Div2/Round111) |
 | Round 130    | [Round 130](./Divisions/Div2/Round130) |
@@ -38,7 +38,9 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 197    | [Round 197](./Divisions/Div2/Round197) |
 | Round 200    | [Round 200](./Divisions/Div2/Round200) |
 | Round 238    | [Round 238](./Divisions/Div2/Round238) |
+| Round 267    | [Round 267](./Divisions/Div2/Round267) |
 | Round 277    | [Round 277](./Divisions/Div2/Round277) |
+| Round 290    | [Round 290](./Divisions/Div2/Round290) |
 | Round 295    | [Round 295](./Divisions/Div2/Round295) |
 | Round 304    | [Round 304](./Divisions/Div2/Round304) |
 | Round 340    | [Round 340](./Divisions/Div2/Round340) |
