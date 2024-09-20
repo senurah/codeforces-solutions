@@ -6,13 +6,14 @@ This repository contains solutions to Codeforces problems, organized by division
 
 ### Beta
 
-| Round Number | Link to Solution |
-|--------------|------------------|
-| Round 4      | [Round 4](./Divisions/Beta/Round4) |
+| Round Number | Link to Solution                     |
+|--------------|--------------------------------------|
+| Round 4      | [Round 4](./Divisions/Beta/Round4)   |
 | Round 19     | [Round 19](./Divisions/Beta/Round19) |
 | Round 40     | [Round 40](./Divisions/Beta/Round40) |
 | Round 47     | [Round 47](./Divisions/Beta/Round47) |
 | Round 55     | [Round 55](./Divisions/Beta/Round55) |
+| Round 57     | [Round 57](./Divisions/Beta/Round57) |
 | Round 65     | [Round 65](./Divisions/Beta/Round65) |
 | Round 77     | [Round 77](./Divisions/Beta/Round77) |
 | Round 84     | [Round 84](./Divisions/Beta/Round84) |
@@ -26,6 +27,7 @@ This repository contains solutions to Codeforces problems, organized by division
 |--------------|----------------------------------------|
 | Round 103    | [Round 103](./Divisions/Div2/Round103) |
 | Round 111    | [Round 111](./Divisions/Div2/Round111) |
+| Round 126    | [Round 126](./Divisions/Div2/Round126) |
 | Round 130    | [Round 130](./Divisions/Div2/Round130) |
 | Round 143    | [Round 143](./Divisions/Div2/Round143) |
 | Round 146    | [Round 146](./Divisions/Div2/Round146) |
