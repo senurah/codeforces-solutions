@@ -77,6 +77,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 964    | [Round 964](./Divisions/Div4/Round964) |
 | Round 971    | [Round 971](./Divisions/Div4/Round971) |
 | Round 974    | [Round 974](./Divisions/Div4/Round974) |
+| Round 974    | [Round 974](./Divisions/Div4/Round974) |
 
 
 
