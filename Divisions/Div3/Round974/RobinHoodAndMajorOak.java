@@ -5,16 +5,16 @@ import java.util.Scanner;
 public class RobinHoodAndMajorOak {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int testCases = scanner.nextInt();
+        int t = scanner.nextInt();
 
-        for (int i = 0; i < testCases; i++) {
-            int year = scanner.nextInt();
-            int leafLifespan = scanner.nextInt();
+        for (int i = 0; i < t; i++) {
+            int n = scanner.nextInt();
+            int k = scanner.nextInt();
 
-            int startYear = Math.max(1, year - leafLifespan + 1);
+            int startYear = Math.max(1, n - k + 1);
 
-            int evenCount = (year / 2) - ((startYear - 1) / 2);
-            int oddCount = (year - startYear + 1) - evenCount;
+            int evenCount = (n / 2) - ((startYear - 1) / 2);
+            int oddCount = (n - startYear + 1) - evenCount;
 
             if (oddCount % 2 == 0) {
                 System.out.println("YES");
