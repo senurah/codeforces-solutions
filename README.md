@@ -52,6 +52,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 304    | [Round 304](./Divisions/Div2/Round304) |
 | Round 340    | [Round 340](./Divisions/Div2/Round340) |
 | Round 366    | [Round 366](./Divisions/Div2/Round366) |
+| Round 375    | [Round 375](./Divisions/Div2/Round375) |
 | Round 379    | [Round 379](./Divisions/Div2/Round379) |
 | Round 404    | [Round 404](./Divisions/Div2/Round404) |
 | Round 405    | [Round 405](./Divisions/Div2/Round405) |
