@@ -114,6 +114,13 @@ This repository contains solutions to Codeforces problems, organized by division
 |----------|------------------|
 | VK Cup 2012 | [VK Cup 2012](./Divisions/VKCup2012) |
 
+### Good bye 2016
+
+| Category      | Link to Solution                         |
+|---------------|------------------------------------------|
+| Good bye 2016 | [Good bye 2016](./Divisions/Goodbye2016) |
+
+
 ## Usage
 
 Click on any of the division links above to navigate to the specific rounds and view the solutions.
