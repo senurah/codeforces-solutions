@@ -23,6 +23,7 @@ public class RobinHoodAndMajorOak {
             }
         }
 
+
         scanner.close();
     }
 }
