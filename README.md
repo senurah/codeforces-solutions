@@ -78,6 +78,7 @@ This repository contains solutions to Codeforces problems, organized by division
 |--------------|----------------------------------------|
 | Round 640    | [Round 640](./Divisions/Div4/Round640) |
 | Round 799    | [Round 799](./Divisions/Div4/Round799) |
+| Round 806    | [Round 806](./Divisions/Div4/Round806) |
 | Round 827    | [Round 827](./Divisions/Div4/Round827) |
 | Round 918    | [Round 918](./Divisions/Div4/Round918) |
 | Round 937    | [Round 937](./Divisions/Div4/Round937) |
