@@ -27,6 +27,7 @@ This repository contains solutions to Codeforces problems, organized by division
 |--------------|----------------------------------------|
 | Round 103    | [Round 103](./Divisions/Div2/Round103) |
 | Round 105    | [Round 105](./Divisions/Div2/Round105) |
+| Round 107    | [Round 107](./Divisions/Div2/Round107) |
 | Round 111    | [Round 111](./Divisions/Div2/Round111) |
 | Round 126    | [Round 126](./Divisions/Div2/Round126) |
 | Round 130    | [Round 130](./Divisions/Div2/Round130) |
@@ -50,6 +51,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 290    | [Round 290](./Divisions/Div2/Round290) |
 | Round 295    | [Round 295](./Divisions/Div2/Round295) |
 | Round 304    | [Round 304](./Divisions/Div2/Round304) |
+| Round 322    | [Round 322](./Divisions/Div2/Round322) |
 | Round 340    | [Round 340](./Divisions/Div2/Round340) |
 | Round 366    | [Round 366](./Divisions/Div2/Round366) |
 | Round 375    | [Round 375](./Divisions/Div2/Round375) |
