@@ -65,9 +65,10 @@ This repository contains solutions to Codeforces problems, organized by division
 
 ### Div3
 
-| Round Number | Link to Solution |
-|--------------|------------------|
+| Round Number | Link to Solution                       |
+|--------------|----------------------------------------|
 | Round 479    | [Round 479](./Divisions/Div3/Round479) |
+| Round 552    | [Round 552](./Divisions/Div3/Round552) |
 | Round 629    | [Round 629](./Divisions/Div3/Round629) |
 | Round 950    | [Round 950](./Divisions/Div3/Round950) |
 | Round 954    | [Round 954](./Divisions/Div3/Round954) |
