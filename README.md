@@ -85,6 +85,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round Number | Link to Solution                       |
 |--------------|----------------------------------------|
 | Round 640    | [Round 640](./Divisions/Div4/Round640) |
+| Round 790    | [Round 790](./Divisions/Div4/Round790) |
 | Round 799    | [Round 799](./Divisions/Div4/Round799) |
 | Round 806    | [Round 806](./Divisions/Div4/Round806) |
 | Round 827    | [Round 827](./Divisions/Div4/Round827) |
