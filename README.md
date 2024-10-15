@@ -10,6 +10,7 @@ This repository contains solutions to Codeforces problems, organized by division
 |--------------|--------------------------------------|
 | Round 4      | [Round 4](./Divisions/Beta/Round4)   |
 | Round 19     | [Round 19](./Divisions/Beta/Round19) |
+| Round 32     | [Round 32](./Divisions/Beta/Round32) |
 | Round 40     | [Round 40](./Divisions/Beta/Round40) |
 | Round 47     | [Round 47](./Divisions/Beta/Round47) |
 | Round 55     | [Round 55](./Divisions/Beta/Round55) |
