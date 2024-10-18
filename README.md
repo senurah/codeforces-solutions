@@ -60,6 +60,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 375    | [Round 375](./Divisions/Div2/Round375) |
 | Round 377    | [Round 377](./Divisions/Div2/Round377) |
 | Round 379    | [Round 379](./Divisions/Div2/Round379) |
+| Round 392    | [Round 392](./Divisions/Div2/Round392) |
 | Round 404    | [Round 404](./Divisions/Div2/Round404) |
 | Round 405    | [Round 405](./Divisions/Div2/Round405) |
 | Round 492    | [Round 492](./Divisions/Div2/Round492) |
