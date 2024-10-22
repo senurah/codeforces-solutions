@@ -75,6 +75,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 629    | [Round 629](./Divisions/Div3/Round629) |
 | Round 667    | [Round 667](./Divisions/Div3/Round667) |
 | Round 713    | [Round 713](./Divisions/Div3/Round713) |
+| Round 739    | [Round 739](./Divisions/Div3/Round739) |
 | Round 950    | [Round 950](./Divisions/Div3/Round950) |
 | Round 954    | [Round 954](./Divisions/Div3/Round954) |
 | Round 957    | [Round 957](./Divisions/Div3/Round957) |
