@@ -75,6 +75,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 479    | [Round 479](./Divisions/Div3/Round479) |
 | Round 552    | [Round 552](./Divisions/Div3/Round552) |
 | Round 629    | [Round 629](./Divisions/Div3/Round629) |
+| Round 650    | [Round 650](./Divisions/Div3/Round650) |
 | Round 667    | [Round 667](./Divisions/Div3/Round667) |
 | Round 713    | [Round 713](./Divisions/Div3/Round713) |
 | Round 739    | [Round 739](./Divisions/Div3/Round739) |
@@ -96,7 +97,8 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 806    | [Round 806](./Divisions/Div4/Round806) |
 | Round 827    | [Round 827](./Divisions/Div4/Round827) |
 | Round 835    | [Round 835](./Divisions/Div4/Round835) |
-| Round 849    | [Round 849](./Divisions/Div4/Round849)  |
+| Round 849    | [Round 849](./Divisions/Div4/Round849) |
+| Round 886    | [Round 886](./Divisions/Div4/Round886) |
 | Round 918    | [Round 918](./Divisions/Div4/Round918) |
 | Round 937    | [Round 937](./Divisions/Div4/Round937) |
 | Round 944    | [Round 944](./Divisions/Div4/Round944) |
