@@ -17,6 +17,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 55     | [Round 55](./Divisions/Beta/Round55) |
 | Round 57     | [Round 57](./Divisions/Beta/Round57) |
 | Round 65     | [Round 65](./Divisions/Beta/Round65) |
+| Round 69     | [Round 69](./Divisions/Beta/Round69) |
 | Round 77     | [Round 77](./Divisions/Beta/Round77) |
 | Round 84     | [Round 84](./Divisions/Beta/Round84) |
 | Round 85     | [Round 85](./Divisions/Beta/Round85) |
