@@ -69,6 +69,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 404    | [Round 404](./Divisions/Div2/Round404) |
 | Round 405    | [Round 405](./Divisions/Div2/Round405) |
 | Round 492    | [Round 492](./Divisions/Div2/Round492) |
+| Round 651    | [Round 651](./Divisions/Div2/Round651) |
 | Round 963    | [Round 963](./Divisions/Div2/Round963) |
 
 ### Div3
