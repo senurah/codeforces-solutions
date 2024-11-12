@@ -17,6 +17,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 55     | [Round 55](./Divisions/Beta/Round55) |
 | Round 57     | [Round 57](./Divisions/Beta/Round57) |
 | Round 65     | [Round 65](./Divisions/Beta/Round65) |
+| Round 69     | [Round 69](./Divisions/Beta/Round69) |
 | Round 77     | [Round 77](./Divisions/Beta/Round77) |
 | Round 84     | [Round 84](./Divisions/Beta/Round84) |
 | Round 85     | [Round 85](./Divisions/Beta/Round85) |
@@ -68,6 +69,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 404    | [Round 404](./Divisions/Div2/Round404) |
 | Round 405    | [Round 405](./Divisions/Div2/Round405) |
 | Round 492    | [Round 492](./Divisions/Div2/Round492) |
+| Round 651    | [Round 651](./Divisions/Div2/Round651) |
 | Round 963    | [Round 963](./Divisions/Div2/Round963) |
 
 ### Div3
