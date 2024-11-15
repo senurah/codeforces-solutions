@@ -108,6 +108,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 827    | [Round 827](./Divisions/Div4/Round827) |
 | Round 835    | [Round 835](./Divisions/Div4/Round835) |
 | Round 849    | [Round 849](./Divisions/Div4/Round849) |
+| Round 871    | [Round 871](./Divisions/Div4/Round871) |
 | Round 886    | [Round 886](./Divisions/Div4/Round886) |
 | Round 898    | [Round 898](./Divisions/Div4/Round898) |
 | Round 918    | [Round 918](./Divisions/Div4/Round918) |
