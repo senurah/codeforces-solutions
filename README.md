@@ -55,6 +55,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 268    | [Round 268](./Divisions/Div2/Round268) |
 | Round 270    | [Round 270](./Divisions/Div2/Round270) |
 | Round 277    | [Round 277](./Divisions/Div2/Round277) |
+| Round 280    | [Round 280](./Divisions/Div2/Round280) |
 | Round 290    | [Round 290](./Divisions/Div2/Round290) |
 | Round 295    | [Round 295](./Divisions/Div2/Round295) |
 | Round 304    | [Round 304](./Divisions/Div2/Round304) |
