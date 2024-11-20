@@ -79,6 +79,7 @@ This repository contains solutions to Codeforces problems, organized by division
 |--------------|----------------------------------------|
 | Round 479    | [Round 479](./Divisions/Div3/Round479) |
 | Round 552    | [Round 552](./Divisions/Div3/Round552) |
+| Round 611    | [Round 611](./Divisions/Div3/Round611) |
 | Round 629    | [Round 629](./Divisions/Div3/Round629) |
 | Round 636    | [Round 636](./Divisions/Div3/Round636) |
 | Round 650    | [Round 650](./Divisions/Div3/Round650) |
