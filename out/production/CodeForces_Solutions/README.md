@@ -76,31 +76,32 @@ This repository contains solutions to Codeforces problems, organized by division
 ### Div3
 
 | Round Number | Link to Solution                       |
-|--------------|----------------------------------------|
-| Round 479    | [Round 479](./Divisions/Div3/Round479) |
-| Round 552    | [Round 552](./Divisions/Div3/Round552) |
-| Round 611    | [Round 611](./Divisions/Div3/Round611) |
-| Round 629    | [Round 629](./Divisions/Div3/Round629) |
-| Round 636    | [Round 636](./Divisions/Div3/Round636) |
-| Round 642    | [Round 642](./Divisions/Div3/Round642) |
-| Round 644    | [Round 644](./Divisions/Div3/Round644) |
-| Round 650    | [Round 650](./Divisions/Div3/Round650) |
-| Round 653    | [Round 653](./Divisions/Div3/Round653) |
-| Round 667    | [Round 667](./Divisions/Div3/Round667) |
-| Round 677    | [Round 677](./Divisions/Div3/Round677) |
-| Round 693    | [Round 693](./Divisions/Div3/Round693) |
-| Round 713    | [Round 713](./Divisions/Div3/Round713) |
-| Round 719    | [Round 719](./Divisions/Div3/Round719) |
-| Round 734    | [Round 734](./Divisions/Div3/Round734) |
-| Round 739    | [Round 739](./Divisions/Div3/Round739) |
-| Round 762    | [Round 762](./Divisions/Div3/Round762) |
-| Round 764    | [Round 764](./Divisions/Div3/Round764) |
-| Round 950    | [Round 950](./Divisions/Div3/Round950) |
-| Round 954    | [Round 954](./Divisions/Div3/Round954) |
-| Round 957    | [Round 957](./Divisions/Div3/Round957) |
-| Round 962    | [Round 962](./Divisions/Div3/Round962) |
-| Round 966    | [Round 966](./Divisions/Div3/Round966) |
-| Round 970    | [Round 970](./Divisions/Div3/Round970) |
+|-------------|----------------------------------------|
+| Round 388   | [Round 388](./Divisions/Div3/Round388) |
+| Round 479   | [Round 479](./Divisions/Div3/Round479) |
+| Round 552   | [Round 552](./Divisions/Div3/Round552) |
+| Round 611   | [Round 611](./Divisions/Div3/Round611) |
+| Round 629   | [Round 629](./Divisions/Div3/Round629) |
+| Round 636   | [Round 636](./Divisions/Div3/Round636) |
+| Round 642   | [Round 642](./Divisions/Div3/Round642) |
+| Round 644   | [Round 644](./Divisions/Div3/Round644) |
+| Round 650   | [Round 650](./Divisions/Div3/Round650) |
+| Round 653   | [Round 653](./Divisions/Div3/Round653) |
+| Round 667   | [Round 667](./Divisions/Div3/Round667) |
+| Round 677   | [Round 677](./Divisions/Div3/Round677) |
+| Round 693   | [Round 693](./Divisions/Div3/Round693) |
+| Round 713   | [Round 713](./Divisions/Div3/Round713) |
+| Round 719   | [Round 719](./Divisions/Div3/Round719) |
+| Round 734   | [Round 734](./Divisions/Div3/Round734) |
+| Round 739   | [Round 739](./Divisions/Div3/Round739) |
+| Round 762   | [Round 762](./Divisions/Div3/Round762) |
+| Round 764   | [Round 764](./Divisions/Div3/Round764) |
+| Round 950   | [Round 950](./Divisions/Div3/Round950) |
+| Round 954   | [Round 954](./Divisions/Div3/Round954) |
+| Round 957   | [Round 957](./Divisions/Div3/Round957) |
+| Round 962   | [Round 962](./Divisions/Div3/Round962) |
+| Round 966   | [Round 966](./Divisions/Div3/Round966) |
+| Round 970   | [Round 970](./Divisions/Div3/Round970) |
 
 ### Div4
 
