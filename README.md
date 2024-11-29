@@ -63,6 +63,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 340    | [Round 340](./Divisions/Div2/Round340) |
 | Round 365    | [Round 365](./Divisions/Div2/Round365) |
 | Round 366    | [Round 366](./Divisions/Div2/Round366) |
+| Round 368    | [Round 368](./Divisions/Div2/Round368) |
 | Round 375    | [Round 375](./Divisions/Div2/Round375) |
 | Round 377    | [Round 377](./Divisions/Div2/Round377) |
 | Round 379    | [Round 379](./Divisions/Div2/Round379) |
