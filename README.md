@@ -91,6 +91,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 644    | [Round 644](./Divisions/Div3/Round644) |
 | Round 650    | [Round 650](./Divisions/Div3/Round650) |
 | Round 653    | [Round 653](./Divisions/Div3/Round653) |
+| Round 661    | [Round 661](./Divisions/Div3/Round661) |
 | Round 667    | [Round 667](./Divisions/Div3/Round667) |
 | Round 674    | [Round 674](./Divisions/Div3/Round674) |
 | Round 677    | [Round 677](./Divisions/Div3/Round677) |
