@@ -106,6 +106,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 839    | [Round 839](./Divisions/Div3/Round839) |
 | Round 891    | [Round 891](./Divisions/Div3/Round891) |
 | Round 909    | [Round 909](./Divisions/Div3/Round909) |
+| Round 933    | [Round 933](./Divisions/Div3/Round933) |
 | Round 950    | [Round 950](./Divisions/Div3/Round950) |
 | Round 954    | [Round 954](./Divisions/Div3/Round954) |
 | Round 957    | [Round 957](./Divisions/Div3/Round957) |
