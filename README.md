@@ -9,7 +9,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round Number | Link to Solution                     |
 |--------------|--------------------------------------|
 | Round 4      | [Round 4](./Divisions/Beta/Round4)   |
-| Round 9      | [Round 8](./Divisions/Beta/Round8)   |
+| Round 8      | [Round 8](./Divisions/Beta/Round8)   |
 | Round 9      | [Round 9](./Divisions/Beta/Round9)   |
 | Round 15     | [Round 15](./Divisions/Beta/Round15) |
 | Round 19     | [Round 19](./Divisions/Beta/Round19) |
@@ -35,6 +35,7 @@ This repository contains solutions to Codeforces problems, organized by division
 | Round 107    | [Round 107](./Divisions/Div2/Round107) |
 | Round 109    | [Round 109](./Divisions/Div2/Round109) |
 | Round 111    | [Round 111](./Divisions/Div2/Round111) |
+| Round 119    | [Round 119](./Divisions/Div2/Round119) |
 | Round 126    | [Round 126](./Divisions/Div2/Round126) |
 | Round 130    | [Round 130](./Divisions/Div2/Round130) |
 | Round 143    | [Round 143](./Divisions/Div2/Round143) |
